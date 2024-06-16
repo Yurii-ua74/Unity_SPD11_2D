@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cb50e112692771443b8222e2c5c0130d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipePrefab: {instanceID: 0}
+  - heartPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
